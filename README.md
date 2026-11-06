@@ -96,9 +96,25 @@ streamlit run app.py
 - Joblib
 - Streamlit
 
-## 10. Repository
+## 10. Model performance Observations
+
+| Model | Observation |
+|---|---|
+| Logistic Regression | Achieved 98.25% accuracy and 0.9954 AUC. Strong overall performance. |
+| Decision Tree | Achieved 91.23% accuracy. Lowest accuracy among the five models. |
+| KNN | Achieved 95.61% accuracy with 0.9722 recall. Good classification performance. |
+| Gaussian Naive Bayes | Achieved 93.86% accuracy and 0.9878 AUC. |
+| Support Vector Machine (SVM) | Achieved 98.25% accuracy and 0.9950 AUC. Performs almost identically to Logistic Regression. |
+
+### Overall Observation
+
+Logistic Regression and Support Vector Machine achieved the highest accuracy (98.25%). Logistic Regression achieved the highest AUC (0.9954), making it the best-performing model overall based on the reported metrics.
+
+
+## 11. Repository
 
 GitHub: https://github.com/Chiranjibi08/BITS-ML-Assignment-2
+
 
 ---
 
