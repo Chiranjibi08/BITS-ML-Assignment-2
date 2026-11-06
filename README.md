@@ -103,6 +103,7 @@ streamlit run app.py
 | KNN | Achieved 95.61% accuracy with 0.9722 recall. Good classification performance. |
 | Gaussian Naive Bayes | Achieved 93.86% accuracy and 0.9878 AUC. |
 | Support Vector Machine (SVM) | Achieved 98.25% accuracy and 0.9950 AUC. Performs almost identically to Logistic Regression. |
+| Overall Winner | Logistic Regression – Achieved the highest AUC (0.9954), with 98.25% accuracy and 0.9623 MCC. Selected as the best-performing model overall. |
 
 ### Overall Observation
 
