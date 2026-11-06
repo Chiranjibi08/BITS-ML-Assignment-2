@@ -3,6 +3,16 @@
 ## 1. Project Overview
 
 This project implements and compares five machine learning classification algorithms using the Breast Cancer Wisconsin dataset.
+## 2. Dataset Information
+
+- Dataset: Breast Cancer Wisconsin Dataset
+- Dataset Source: UCI Machine Learning Repository
+- Dataset URL: https://uci-ics-mlr-prod.aws.uci.edu/dataset/17/breast%2Bcancer%2Bwisconsin%2Bdiagnostic
+- Total observations: 569
+- Total features: 30
+- Target variable: Diagnosis
+- Missing values: 0
+
 
 The objective is to classify breast cancer cases into:
 - Malignant
