@@ -51,9 +51,7 @@ The models are evaluated using:
 
 ## 6. Best Model
 
-Logistic Regression achieved the highest accuracy of 98.25% and MCC of 0.9623.
-
-It is the best-performing model based on the reported evaluation results.
+Logistic Regression and Support Vector Machine achieved the highest accuracy of 98.25% and MCC of 0.9623. However, Logistic Regression achieved the highest AUC of 0.9954. Therefore, Logistic Regression is selected as the overall best-performing model.
 
 ## 7. Project Structure
 
