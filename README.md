@@ -20,14 +20,6 @@ The objective is to classify breast cancer cases into:
 
 A Streamlit dashboard is developed to demonstrate model predictions and compare evaluation metrics.
 
-## 2. Dataset Information
-
-- Dataset: Breast Cancer Wisconsin Dataset
-- Total observations: 569
-- Total features: 30
-- Target variable: Diagnosis
-- Missing values: 0
-
 ## 3. Machine Learning Algorithms
 
 The following five algorithms are implemented:
